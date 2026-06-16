@@ -1,6 +1,7 @@
 # eventlabs-ml-pipeline
 # EventLabs ML Pipeline — Churn Prediction & Watch-Time Forecasting
 
+
 > End-to-end ML system that predicts webinar attendee churn and watch-time, then converts predictions into real-time organizer interventions.
 
 ---
@@ -8,6 +9,7 @@
 ## What this project does
 
 EventLabs is a webinar platform. Organisers face a core problem: they don't know which attendees are about to drop off until it's too late to act.
+[eventlabs](https://eventlabs.ai/)
 
 This project builds a **two-model ML pipeline** that solves it:
 
