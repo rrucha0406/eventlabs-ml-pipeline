@@ -148,4 +148,4 @@ jupyter notebook notebooks/eventlabs_combined.ipynb
 ## Author
 
 **Rrucha Wamanse**
-[LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/rrucha-wamanse-428267324/)) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn]((https://www.linkedin.com/in/rrucha-wamanse-428267324/)) · [GitHub]((https://github.com/rrucha0406))
