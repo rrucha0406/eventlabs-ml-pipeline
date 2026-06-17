@@ -7,6 +7,7 @@
 ---
 
 ## What this project does
+extensive project
 
 EventLabs is a webinar platform. Organisers face a core problem: they don't know which attendees are about to drop off until it's too late to act.
 [eventlabs](https://eventlabs.ai/)
